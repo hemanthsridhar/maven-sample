@@ -11,10 +11,10 @@
 
     <dependencies>
         <dependency>
-        <groupId>${groupDownload}</groupId>
-        <artifactId>${artifactDownload}</artifactId>
-        <version>${versionDownload}</version>
-    </dependency>
+            <groupId>${groupDownload}</groupId>
+            <artifactId>${artifactDownload}</artifactId>
+            <version>${versionDownload}</version>
+        </dependency>
     </dependencies>
 
 </project>
